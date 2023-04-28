@@ -1,4 +1,4 @@
-Vithersan Somasundaram | January 2023 | vithersan.somasundaram@uzh.ch
+Vithersan Somasundaram | January 2023 |
 
 MASTER THESIS
 ----------------------------------------------------------------------------
