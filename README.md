@@ -20,4 +20,4 @@ Involved in this project are:
 
 ## Where to find the master thesis?
 
-- The master thesis can be found as a pdf-file on the [Homepage](https://www.biostat.uzh.ch/index.php?id=master_theses&L=1) of the Master’s program in Biostatistics with open access to R code and data analysis.
+- The master thesis can be found as a [pdf-file](http://www.math.uzh.ch/li/index.php?file&key1=328946) with open access to R code and data analysis.
